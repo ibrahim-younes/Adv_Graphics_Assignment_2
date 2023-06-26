@@ -2,8 +2,10 @@
 
 Button "f" to toggle the FlashLight
 
-Botton "1" for FirstPerson
+Button "1" for FirstPerson
 
-Botton "2" for ThirdPerson
+Button "2" for ThirdPerson
 
-"8,9,0" For The Zoom
+Button "8,9,0" For The Zoom
+
+Button "p" To Change The Directional Light Rotation
